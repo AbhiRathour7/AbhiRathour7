@@ -1,79 +1,72 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">Hi 👋, I'm Abhinav Singh</h1>
+<h3 align="center">AI/ML Enthusiast | CSE Student</h3>
 
-###
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=abhirathour7&label=Profile%20views&color=0e75b6&style=flat" /> 
+</p>
 
-<div align="center">
+---
+
+<h3 align="center">🌐 Connect with me</h3>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/abhinav-singh-a0a5202b6" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
   </a>
   
   <a href="https://github.com/abhirathour7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="25"/>
   </a>
-  
+
   <a href="https://leetcode.com/u/abhirathour07/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&logoColor=black&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&logoColor=black&style=for-the-badge" height="25"/>
   </a>
-</div>
 
-###
+  <a href="https://www.codechef.com/users/abhirathour7" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&color=5B4638&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abhirathour7.abhirathour7"  />
-</div>
-
-###
-
-<h1 align="center">Hey there 👋, I'm Abhinav Singh</h1>
-
-###
+---
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-###
-
 <p align="left">
-I'm a Computer Science Engineering student from Chennai, India 🇮🇳<br><br>
-
-- 🔭 I’m currently working on AI/ML Projects (like Student Grade Prediction & House Price Prediction)<br>
-- 📚 I'm currently learning Machine Learning, Deep Learning & Web Development<br>
-- ⚡ In my free time I build projects, explore new tech & listen to music 🎧
+- 🎓 B.E. Computer Science student at Sathyabama Institute of Science and Technology<br>
+- 🤖 Interested in Artificial Intelligence, Machine Learning, and Data Science<br>
+- 💻 Built projects like Student Grade Prediction and House Price Prediction<br>
+- 📚 Currently learning Machine Learning concepts and improving problem-solving skills<br>
+- ⚡ Comfortable with Java, Python, and basic web technologies<br>
 </p>
 
-###
+---
 
-<h3 align="left">🛠 Language and Tools</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
-###
-
-<div align="left">
+<p align="center"> 
   <img src="https://skillicons.dev/icons?i=python" height="40"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="40"/>
-</div>
+</p>
 
-###
+---
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhirathour7&show_icons=true&theme=default" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=abhirathour7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhirathour7&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhirathour7&" />
+</p>
