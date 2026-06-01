@@ -51,6 +51,8 @@
   <img src="https://skillicons.dev/icons?i=git" height="40"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
   <img src="https://skillicons.dev/icons?i=pytorch" height="40"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI"/>
+
 </p>
 
 ---
